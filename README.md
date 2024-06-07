@@ -40,3 +40,7 @@
 - the script adds 1mm clearance for ~1-1.5mm thick rubber lining, such can be bought at hardware stores
 - please add two stripes of the lining to the inside, also following the bend part
 - please also add rubber strips to the two desk-touching parts
+- everything is held together by gravity, print the parts, add rubber lining, assemble and let gravity do the rest
+- you can leave out the upper parts if you not desire to put something ontop
+
+![](images/IMG_3695.jpg)
